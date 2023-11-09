@@ -1,4 +1,5 @@
 import Image from "next/image";
+import "./Rodape.scss";
 
 export default function Rodape() {
     return (

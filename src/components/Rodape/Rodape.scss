@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+
+    background-color:  #5caee4;
+    padding: 1em;
+
+    ul {
+        display: flex;
+        justify-content: center;
+        list-style: none;
+        
+        align-items: center;
+        text-decoration: none;
+    }
+
+    img {
+        margin: 0 1.5em;
+    }
+
+    p {
+        color: white;
+        font-weight: 600;
+        text-align: center;
+    }
+}

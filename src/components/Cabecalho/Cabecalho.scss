@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+
+    ul {
+        display: flex;
+        justify-content: center;
+        list-style: none;
+        text-decoration: none;
+        background-color:  #5caee4;
+    }
+
+    li {
+        margin: 2em;
+    }
+
+    a {
+        color: white;
+        font-weight: 600;
+        font-size: 1.4rem;
+        text-decoration: none;
+    }
+}
