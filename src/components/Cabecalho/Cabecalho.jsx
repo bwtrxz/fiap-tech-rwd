@@ -8,6 +8,7 @@ export default function Cabecalho(){
                     <li>
                         <Link href= "/">Home</Link>
                     </li>
+                    
                 </ul>
             </nav>
         </header>
