@@ -6,9 +6,14 @@ export default function Cabecalho(){
             <nav>
                 <ul>
                     <li>
-                        <Link href= "/">Home</Link>
+                        <Link href= "/">Página Inicial</Link>
                     </li>
-                    
+                    <li>
+                        <Link href= "/tech/desafios">Desafios</Link>
+                    </li>
+                    <li>
+                        <Link href= "/tech/solucoes">Soluções</Link>
+                    </li>
                 </ul>
             </nav>
         </header>
