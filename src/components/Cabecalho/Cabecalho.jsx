@@ -15,6 +15,9 @@ export default function Cabecalho(){
                     <li>
                         <Link href= "/tech/solucoes">Soluções</Link>
                     </li>
+                    <li>
+                        <Link href= "/tech/integrantes">Integrantes</Link>
+                    </li>
                 </ul>
             </nav>
         </header>
