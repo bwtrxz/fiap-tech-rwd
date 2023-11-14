@@ -12,7 +12,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang="pt">
       <body className={inter.className}>
       <Cabecalho/>
         {children}
