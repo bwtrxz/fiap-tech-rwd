@@ -6,6 +6,7 @@ export default function Problemas() {
     <>
       <div>
         <h1>Problema</h1>
+        <Image src="/img/fabrica.png" alt="modal" width={800} height={400} />
         <p>
           Durante a análise dos desafios propostos para o Challenge 2023 - Porto
           Seguro, identificámos um conjunto de questões obtidas pelo desafio
@@ -16,11 +17,11 @@ export default function Problemas() {
           transporte. Para isso desenvolvemos, uma solução criativa e eficiente
           para esse problema enfrentado por nossos clientes.
         </p>
-        <Image src="/img/fabrica.png" alt="modal" width={800} height={400} />
       </div>
 
       <div>
         <h1>Desafio</h1>
+        <Image src="/img/mecanico.png" alt="modal" width={800} height={600} />
         <p>
           É possível identificar uma série de desafios quando o assunto é a
           comunicação entre a empresa e o cliente. A ausência de informações
@@ -29,7 +30,6 @@ export default function Problemas() {
           Portanto, é necessário que as informações fornecidas pelo cliente
           sejam concisas proporcionando um atendimento mais rápido e preciso.
         </p>
-        <Image src="/img/mecanico.png" alt="modal" width={800} height={700} />
       </div>
     </>
   );
