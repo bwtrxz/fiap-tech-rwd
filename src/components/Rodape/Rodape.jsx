@@ -30,7 +30,7 @@ export default function Rodape() {
                         </a>
                     </li>
                 </ul>
-                <p>&copy;Todos os direitos reservados - 2023.</p>
+                <p>&copy;Todos os direitos reservados para FiapTech - 2023.</p>
             </footer>
         </div >
     )
